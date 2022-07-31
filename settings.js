@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['254745772893,254112581393']
-global.premium = ['254745772893,254112581393']
-global.ownernomer = '254745772893,254112581393'
+global.owner = ['254745772893']
+global.premium = ['254745772893']
+global.ownernomer = '254745772893'
 global.ownername = 'Captain Geoffrey'
 global.botname = 'Captain002'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
@@ -36,7 +36,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
     success: 'Done ✓',
-    admin: 'Nieke Admin 😂😂Kwanza!',
+    admin: 'Wewe sio Admin 😂😂!',
     botAdmin: 'Mimi sio Admin😂😂💔!',
     owner: 'You are not the Owner!',
     group: 'Feature Used Only For Groups!',
